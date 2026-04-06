@@ -40,10 +40,10 @@ Full forward + backward propagation engine in pure NumPy. Modular layers, Adam o
 
 | | |
 |---|---|
-| **Languages** | Python · JavaScript |
-| **AI / ML** | LLM pipelines · RAG · fine-tuning · NumPy ML |
-| **Backend** | FastAPI · Ollama · Pydantic |
-| **Frontend** | React · Vite · Framer Motion |
+| **Languages** | Python · C++ |
+| **AI / ML** | LLM pipelines · RAG · fine-tuning · NumPy ML . Pytorch |
+| **Backend** | FastAPI · Ollama |
+| **Frontend** | React |
 
 ---
 
